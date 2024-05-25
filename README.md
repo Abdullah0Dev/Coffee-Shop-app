@@ -63,6 +63,23 @@ Once the application is up and running, you can start exploring the features:
 - **Payment**: Complete the checkout process.
 - **Settings**: Toggle dark mode and other preferences.
  
+## Screenshots
+
+![Home Screen](https://i.postimg.cc/NFFmB2pP/Home-Screen.png)
+*Home Screen in Dark Mode*
+
+![Cart](https://i.postimg.cc/ZK9pQ39W/Cart-Screen.png)
+*Cart Functionality*
+
+![Favorites](https://i.postimg.cc/L4Qjvvsd/Favorites-Screen.png)
+*Favorites List*
+
+![Coffee Details](https://i.postimg.cc/C52D1M2M/Coffee-Details-Screen.png)
+*Coffee Details Screen*
+
+![Order History](https://i.postimg.cc/xTWMVCHt/Order-History-Screen.png)
+*Order History Screen*
+
 ## Contact
 
 If you have any questions or feedback, please feel free to reach out:
