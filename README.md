@@ -65,21 +65,13 @@ Once the application is up and running, you can start exploring the features:
  
 ## Screenshots
 
-![Home Screen](https://i.postimg.cc/NFFmB2pP/Home-Screen.png)
-*Home Screen in Dark Mode*
-
-![Cart](https://i.postimg.cc/ZK9pQ39W/Cart-Screen.png)
-*Cart Functionality*
-
-![Favorites](https://i.postimg.cc/L4Qjvvsd/Favorites-Screen.png)
-*Favorites List*
-
-![Coffee Details](https://i.postimg.cc/C52D1M2M/Coffee-Details-Screen.png)
-*Coffee Details Screen*
-
-![Order History](https://i.postimg.cc/xTWMVCHt/Order-History-Screen.png)
-*Order History Screen*
-
+<div align="center">
+  <img src="https://i.postimg.cc/NFFmB2pP/Home-Screen.png" alt="Home Screen" width="200"/>
+  <img src="https://i.postimg.cc/ZK9pQ39W/Cart-Screen.png" alt="Cart" width="200"/>
+  <img src="https://i.postimg.cc/L4Qjvvsd/Favorites-Screen.png" alt="Favorites" width="200"/>
+  <img src="https://i.postimg.cc/C52D1M2M/Coffee-Details-Screen.png" alt="Coffee Details" width="200"/>
+  <img src="https://i.postimg.cc/xTWMVCHt/Order-History-Screen.png" alt="Order History" width="200"/>
+</div>
 ## Contact
 
 If you have any questions or feedback, please feel free to reach out:
