@@ -82,7 +82,7 @@ If you have any questions or feedback, please feel free to reach out:
 
 - **Email**: abdullahdev001@gmail.com
 - **GitHub**: [AbdullahDev](https://github.com/Abdullah0Dev)
-- **LinkedIn**: [AbdullahDev](https://www.linkedin.com/in/abdullah1dev/)
+- **LinkedIn**: [Abdullah1Dev](https://www.linkedin.com/in/abdullah1dev/)
 
 Thank you for checking out BeanScene! We hope you find it useful and enjoyable. Happy coding! 🚀
 
