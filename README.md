@@ -1,18 +1,7 @@
-# MyReactNativeApp
+# BeanScene
 
-Welcome to **MyReactNativeApp**! This project is a modern, feature-rich mobile application built using the latest technologies in the React Native ecosystem. The application supports functionalities such as adding to cart, removing from cart, adding to favorites, removing from favorites, and a comprehensive payment page, all wrapped in a sleek dark mode interface.
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+Welcome to **BeanScene**! This project is a modern, feature-rich mobile application built using the latest technologies in the React Native ecosystem. The application supports functionalities such as adding to cart, removing from cart, adding to favorites, removing from favorites, and a comprehensive payment page, all wrapped in a sleek dark mode interface.
+ 
 ## Features
 
 - **Add to Cart**: Easily add items to your cart.
@@ -41,8 +30,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/MyReactNativeApp.git
-   cd MyReactNativeApp
+   git clone https://github.com/Abdullah0Dev/Coffee-Shop-app.git
+   cd Coffee-Shop-app
    ```
 
 2. **Install dependencies**:
@@ -73,53 +62,15 @@ Once the application is up and running, you can start exploring the features:
 - **Favorites**: Manage your favorite items.
 - **Payment**: Complete the checkout process.
 - **Settings**: Toggle dark mode and other preferences.
-
-## Screenshots
-
-![Home Screen](screenshots/home.png)
-*Home Screen in Dark Mode*
-
-![Cart](screenshots/cart.png)
-*Cart Functionality*
-
-![Favorites](screenshots/favorites.png)
-*Favorites List*
-
-![Payment](screenshots/payment.png)
-*Payment Page*
-
-## Contributing
-
-We welcome contributions from the community! To contribute to this project, follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make your changes and commit them**:
-   ```bash
-   git commit -m "Add your message"
-   ```
-4. **Push to the branch**:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. **Open a pull request** and describe your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
+ 
 ## Contact
 
 If you have any questions or feedback, please feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: abdullahdev001@gmail.com
+- **GitHub**: [AbdullahDev](https://github.com/Abdullah0Dev)
 
-Thank you for checking out MyReactNativeApp! We hope you find it useful and enjoyable. Happy coding! 🚀
+Thank you for checking out BeanScene! We hope you find it useful and enjoyable. Happy coding! 🚀
 
 ---
-
-Feel free to customize this README file as needed for your specific project details.
+ 
