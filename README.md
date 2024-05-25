@@ -1,7 +1,11 @@
 # BeanScene
 
 Welcome to **BeanScene**! This project is a modern, feature-rich mobile application built using the latest technologies in the React Native ecosystem. The application supports functionalities such as adding to cart, removing from cart, adding to favorites, removing from favorites, and a comprehensive payment page, all wrapped in a sleek dark mode interface.
- 
+ <div align="center">
+  <img src="https://i.postimg.cc/NFFmB2pP/Home-Screen.png" alt="Home Screen" width="200"/>
+  <img src="https://i.postimg.cc/ZK9pQ39W/Cart-Screen.png" alt="Cart" width="200"/>
+  <img src="https://i.postimg.cc/xTWMVCHt/Order-History-Screen.png" alt="Order History" width="200"/>
+</div>
 ## Features
 
 - **Add to Cart**: Easily add items to your cart.
