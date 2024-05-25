@@ -76,7 +76,8 @@ Once the application is up and running, you can start exploring the features:
   <img src="https://i.postimg.cc/C52D1M2M/Coffee-Details-Screen.png" alt="Coffee Details" width="200"/>
   <img src="https://i.postimg.cc/xTWMVCHt/Order-History-Screen.png" alt="Order History" width="200"/>
 </div>
-##Contact
+
+## Contact
 
 If you have any questions or feedback, please feel free to reach out:
 
